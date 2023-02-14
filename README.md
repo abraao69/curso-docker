@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYo0Unl1mbkqEG3g5Fm2yVbHHNCERiA6S64L-HJvuWvSob4JMzyV9YHJuTNTnXpSHCS4&usqp=CAU"/>
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_aR2Fv5j--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycpitdwj8hirds426gtw.png"/>
 </p>
 
 <hr>
