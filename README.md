@@ -3,7 +3,7 @@
 <hr>
 <p align="center">
  
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cTNsaMlx9dhpmWB97M348VY88k6VGi7OREgiyDHCbZHVHKiVucEDuS905uzTYBXZuLE&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnKwhmv82qYPFN4kFIY9iaXRLXsnHbgQDzDd2xeTUX_bNKT0Mzo1yaaHUHMvwX6aZFdk&usqp=CAU)"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYo0Unl1mbkqEG3g5Fm2yVbHHNCERiA6S64L-HJvuWvSob4JMzyV9YHJuTNTnXpSHCS4&usqp=CAU"/>
 </p>
 
 <hr>
