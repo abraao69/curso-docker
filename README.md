@@ -2,10 +2,10 @@
 
 <hr>
 <p align="center">
-  <img src="<p align="center">
+ 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkXa6d9X8aC7yJbZlVXmabQDLsWM-EYCUFw&usqp=CAU"/>
 </p>
-</p>
+
 <hr>
 
 A popularidade do Docker aumentou rapidamente nos últimos anos e evoluiu o desenvolvimento de software tradicional. Os contêineres do Docker permitem uma imensa economia de escala e tornaram o desenvolvimento escalável, ao mesmo tempo em que mantêm o processo amigável. Nosso tutorial do Docker ajudará você a entender os contêineres do Docker e seus benefícios, além de aprender as maneiras de criar um ambiente docker e comandos docker. Então comece a aprender agora para saber tudo sobre o docker - desde suas vantagens até como ele se diferencia de outras máquinas virtuais, saiba como instalá-lo e domine diversas tecnologias docker.
